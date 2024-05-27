@@ -1,0 +1,46 @@
+importer,index,2000,2005,2010,2015,2022
+Australia,c_ij,1.01,1,1.03,1.07,1.1
+Australia,b_ij,1.35,1.41,1.37,1.34,1.51
+Australia,i_ij,1.36,1.41,1.41,1.43,1.66
+Brazil,c_ij,0.66,0.82,0.91,0.92,0.99
+Brazil,b_ij,0.66,0.94,1.25,1.24,1.44
+Brazil,i_ij,0.44,0.77,1.14,1.14,1.43
+Germany,c_ij,1.04,1.02,1.06,1,1.02
+Germany,b_ij,0.53,0.62,0.65,0.55,0.58
+Germany,i_ij,0.55,0.63,0.69,0.55,0.59
+"China, Hong Kong SAR",c_ij,1.68,1.85,1.77,1.65,1.49
+"China, Hong Kong SAR",b_ij,3.37,2.46,2,1.82,1.76
+"China, Hong Kong SAR",i_ij,5.66,4.55,3.54,3,2.62
+Indonesia,c_ij,0.75,0.74,0.89,0.94,1.02
+Indonesia,b_ij,1.94,1.59,1.45,1.52,1.8
+Indonesia,i_ij,1.46,1.18,1.29,1.43,1.84
+Japan,c_ij,1.19,1.09,0.96,1.01,0.87
+Japan,b_ij,2.25,2.05,1.74,1.56,1.48
+Japan,i_ij,2.68,2.23,1.67,1.58,1.29
+Rep. of Korea,c_ij,0.73,0.81,0.79,0.9,0.88
+Rep. of Korea,b_ij,2.11,2.08,1.73,1.55,1.54
+Rep. of Korea,i_ij,1.54,1.68,1.37,1.4,1.36
+Malaysia,c_ij,0.84,1.08,1.07,1.09,1.08
+Malaysia,b_ij,0.85,1.1,1.05,1.29,1.54
+Malaysia,i_ij,0.71,1.19,1.12,1.41,1.66
+"Other Asia, nes",c_ij,0.66,0.75,0.64,0.78,0.9
+"Other Asia, nes",b_ij,1.21,1.48,1.39,1.47,1.37
+"Other Asia, nes",i_ij,0.8,1.11,0.89,1.15,1.23
+Netherlands,c_ij,0.97,1.03,0.94,0.95,0.95
+Netherlands,b_ij,0.62,0.75,0.78,0.74,0.77
+Netherlands,i_ij,0.6,0.77,0.73,0.7,0.73
+Russian Federation,c_ij,1.09,1.11,1.11,1.07,1.27
+Russian Federation,b_ij,0.87,0.93,1.02,1.08,1.81
+Russian Federation,i_ij,0.95,1.03,1.13,1.16,2.3
+Saudi Arabia,c_ij,0.86,0.87,0.87,0.86,1.06
+Saudi Arabia,b_ij,0.81,0.85,0.92,0.96,1.21
+Saudi Arabia,i_ij,0.7,0.74,0.8,0.83,1.28
+India,c_ij,0.59,0.7,0.55,0.65,0.64
+India,b_ij,1.17,1.36,1.54,1.51,1.42
+India,i_ij,0.69,0.95,0.85,0.98,0.91
+Viet Nam,c_ij,0.89,0.87,1.04,1.23,1.39
+Viet Nam,b_ij,2.15,1.93,1.82,1.6,1.65
+Viet Nam,i_ij,1.91,1.68,1.89,1.97,2.29
+USA,c_ij,1.14,1.1,1.16,1.14,1.19
+USA,b_ij,1.06,1.22,1.18,1.12,0.89
+USA,i_ij,1.21,1.34,1.37,1.28,1.06
