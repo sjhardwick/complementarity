@@ -1,16 +1,16 @@
 # complementarity
 
-This project computes Drysdale's trade complementarity, bias and intensity indexes using trade data from the CEPII BACI database.
+This project computes Drysdale's trade complementarity, bias and intensity indexes at the HS4 level using trade data from the CEPII BACI database.
 
-## Usage
+## :chart_with_upwards_trend: Usage
 
 To compute the indexes, you first need to download the BACI dataset of your choice from the CEPII website: <http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=37>
 
 Save the dataset in a subfolder /data/.
 
-The main script is complementarity.R. You will need to check the file names in lines 9 and 27 to make sure they reflect the BACI version you have downloaded.
+The main script is complementarity.R. You will need to check the file names in lines 9 and 27 to make sure they reflect the BACI version you have downloaded. 
 
-## References
+## :book: References
 
 Drysdale, P. D. (1967). *Japanese–Australian Trade: An approach to the study of bilateral trade flows*. PhD dissertation. The Australian National University, Canberra. <https://dx.doi.org/10.25911/5d7a271538333>
 
