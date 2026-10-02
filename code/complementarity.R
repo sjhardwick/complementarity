@@ -31,9 +31,7 @@ for (y in years) {
   # import data
   hs4_data <-
     fread(paste0(
-      "data/BACI_HS92_V202601/BACI_HS92_Y",
-      y,
-      "_V202601.csv"
+      "data/BACI_HS92_V202601/BACI_HS92_Y", y, "_V202601.csv"
     )) %>%
     lazy_dt() %>%
     # get HS4 from HS6 (k)
