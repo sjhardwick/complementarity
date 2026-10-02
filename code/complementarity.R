@@ -122,7 +122,7 @@ for (y in years) {
 
   i_matrix <- sweep(i_matrix, 2, m_j, "/")
 
-  # B_ij = C_ij / I_ij
+  # B_ij = I_ij / C_ij 
   b_matrix <- i_matrix / c_matrix
 
   b_matrix[is.na(c_matrix) | c_matrix <= 0] <- NA_real_
@@ -136,6 +136,7 @@ for (y in years) {
       b_ij = as.numeric(b_matrix),
       i_ij = as.numeric(i_matrix)
     ) %>%
+    filter(i != j) %>%
     left_join(countries_i, by = "i") %>%
     left_join(countries_j, by = "j") %>%
     select(
