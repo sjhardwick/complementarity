@@ -8,7 +8,7 @@ To compute the indexes, you first need to download the BACI dataset of your choi
 
 Save the dataset in a subfolder called `data/`.
 
-The main script is `complementarity.R`. You will need to check the file names in lines 9 and 27 to make sure they reflect the BACI version you have downloaded. 
+The main script is `complementarity.R`. You will need to check the file names in lines 9 and 34 to make sure they reflect the BACI version you have downloaded. 
 
 ## :book: References
 
